@@ -1,3 +1,3 @@
 # hello-world
-for testing purposes
+for testing purpose
 just to test how do these braches work
